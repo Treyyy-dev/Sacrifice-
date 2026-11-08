@@ -26,4 +26,4 @@ Open `index.html` in a browser, or turn on GitHub Pages for this repo (Settings 
 
 ## Tech
 
-Plain HTML, CSS and JavaScript with no build step. A software raycaster draws the walls, floor and ceiling; zombies, pickups and weapons are canvas-drawn 2D sprites; sound is synthesized with the Web Audio API.
+Plain HTML, CSS and JavaScript with no build step. A software raycaster draws the walls, floor and ceiling. Zombies, weapons, pickups, survivor portraits and wall textures are game-style renders generated with Higgsfield and embedded in the page as image atlases. Sound is synthesized with the Web Audio API.
