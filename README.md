@@ -2,7 +2,7 @@
 
 A portrait-mode 2.5D zombie horror shooter for phones, built in a single HTML file.
 
-You play a night-shift survivor at St. Aldric General. Pick your survivor, lock in, then walk the dark wards in first or third person, open doors, find the red keycard and reach the stairwell exit while illustrated zombies close in.
+You play a night-shift survivor at St. Aldric General. Pick your survivor, lock in, then walk the dark wards in first person, open doors, find the red keycard and reach the stairwell exit while illustrated zombies close in.
 
 ## Play
 
@@ -15,7 +15,6 @@ Open `index.html` in a browser, or turn on GitHub Pages for this repo (Settings 
 - **Fire** shoots (hold for repeat fire)
 - **Open** opens doors, unlocks the red door and uses the exit
 - **Swap** cycles through the guns you've found: sidearm, SMG, assault rifle and shotgun
-- **3P / 1P** (top right) switches between first-person and over-the-shoulder third-person view
 - Keyboard: WASD or arrows, Space to fire, E to open, Q to swap, Esc to pause
 
 ## Main menu
